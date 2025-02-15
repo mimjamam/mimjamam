@@ -33,3 +33,4 @@
 - AI in Healthcare
 
 ---
+![Visitor Count](https://profile-counter.glitch.me/mimjamam/count.svg)

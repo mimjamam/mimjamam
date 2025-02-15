@@ -33,4 +33,5 @@
 - AI in Healthcare
 
 ---
-![Visitor Count](https://profile-counter.glitch.me/mimjamam/count.svg)
+![Visitor Count](https://img.shields.io/badge/dynamic/json?color=blue&label=Visitors&query=value&url=https://api.countapi.xyz/hit/mimjamam/visits)
+

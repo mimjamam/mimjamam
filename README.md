@@ -33,7 +33,8 @@
 - AI in Healthcare
 
 ---
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=mimjamam.mimjamam)
+![Visitor Count](https://hit.yhype.me/github/profile?user=mimjamam)
+
 
 
 

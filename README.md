@@ -33,6 +33,7 @@
 - AI in Healthcare
 
 ---
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=mimjamam.mimjamam)
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=mimjamam.mimjamam)
+
 
 

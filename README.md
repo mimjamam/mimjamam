@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi there! 👋 I'm Mimjamam Ul Haque Monmoy  
 
-<!--
-**mimjamam/mimjamam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **ML Engineer & Research Enthusiast**  
+🎓 **CSE Student |10th Semester**
+📖 **Aspiring AI Researcher | Passionate Programmer**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔍 About Me
+- 🧠 Exploring **Machine Learning & Deep Learning**, currently focusing on **Reinforcement Learning (DQN)*
+|
+---
+
+## 💻 Tech Stack
+- **Programming Languages:** Python, C++, JavaScript
+- **AI & ML:** PyTorch, TensorFlow, Scikit-learn
+- **Data Science:** Pandas, NumPy, Matplotlib, Seaborn
+- **Web Development:** React.js, Node.js
+- **Blockchain & Cybersecurity:** Solidity, Hyperledger, Cryptography
+- **Version Control:** Git, GitHub
+- **Other Tools:** Docker, Linux, LaTeX
+
+---
+
+## 📚 Current Learning
+- **Deep Q-Networks (DQN) & Reinforcement Learning**
+- **Advanced Clustering Techniques**
+- **Academic Writing & Research Methodology**
+
+---
+
+
+### 🔬 Research Interests
+- Explainable AI (XAI)
+- Reinforcement Learning (RL)
+- AI in Healthcare
+- Blockchain for Secure Data Management
+
+---

@@ -33,5 +33,6 @@
 - AI in Healthcare
 
 ---
-![Visitor Count](https://img.shields.io/badge/dynamic/json?color=blue&label=Visitors&query=value&url=https://api.countapi.xyz/hit/mimjamam/visits)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=mimjamam.mimjamam)
+
 

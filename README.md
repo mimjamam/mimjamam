@@ -33,7 +33,8 @@
 - AI in Healthcare
 
 ---
-![Visitor Count](https://hit.yhype.me/github/profile?user=mimjamam)
+
+![Profile Views](https://komarev.com/ghpvc/?username=mimjamam&color=blue) 
 
 
 

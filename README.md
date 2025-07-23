@@ -31,28 +31,9 @@
 - 🎯 **Reinforcement Learning (RL)**  
 - 🏥 **AI in Healthcare**  
 
----
-gantt
-    dateFormat  YYYY-MM
-    title My Journey
 
-    section Foundation
-    Bachelor's in CSE         :active, 2020-01, 2025-12
-    Core Programming          :milestone, 2021-06, 2w
 
-    section Research
-    ML & DL Projects          :2022-05, 2025-09
-    RL/XAI Focus              :2023-03, 2025-12
-
-    section The Future
-    Open Source Contributions :2024-01, 2025-12
-    Moonshot AI Projects      :2025-01, 2026-12
-
-## 📈 GitHub Stats  
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=mimjamam&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150px"> 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mimjamam&theme=tokyonight" alt="GitHub Streak" height="150px">
-</p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mimjamam&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150px"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=mimjamam&theme=tokyonight" alt="GitHub Streak" height="150px"> </p>
 
 ---
 

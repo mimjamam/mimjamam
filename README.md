@@ -5,6 +5,7 @@
 🤖 <b>Aspiring AI Researcher | Passionate Programmer</b>
 </p>
 
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:181818,100:3a8dde&height=180&section=header&text=Mimjamam%20Ul%20Haque%20Monmoy&fontSize=38&fontAlignY=37&desc=AI%20Dreamer%20%7C%20Code%20Innovator&descSize=18" /> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=700&color=3A8DDE&center=true&vCenter=true&width=500&lines=Hello+World!+I'm+Mimjamam+%F0%9F%91%8B;AI+Enthusiast+%7C+RL+Explorer+%7C+Futurist" alt="Typing SVG" /> </div>
 ---
 
 ## 🚀 About Me  

@@ -1,8 +1,7 @@
 <!-- Futuristic Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=4000&pause=800&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Mimjamam+Ul+Haque+Monmoy;Machine+Learning+%7C+Deep+Learning+Explorer;AI+Researcher;Full-Stack+Developer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=4000&pause=800&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B+I'm+Mimjamam+Ul+Haque+Monmoy;Machine+Learning+%7C+Deep+Learning+Explorer;AI+Researcher;Full-Stack+Developer" />
 </p>
-
 ---
 
 ## 🌌 About Me

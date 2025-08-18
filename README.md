@@ -38,7 +38,6 @@
 
 ---
 
-## ⚡ Unique Effects
 
 <p align="center">
   <!-- Snake Contribution Graph -->

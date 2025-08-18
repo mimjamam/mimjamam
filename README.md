@@ -2,7 +2,7 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=4000&pause=800&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B+I'm+Mimjamam+Ul+Haque+Monmoy;Machine+Learning+%7C+Deep+Learning+Explorer;AI+Researcher;Full-Stack+Developer" />
 </p>
----
+
 
 ## 🌌 About Me
 🔹 Passionate **developer & researcher** working at the intersection of **AI + real-world problem solving**  
@@ -10,7 +10,7 @@
 🔹 Exploring **deep learning, reinforcement learning, and natural language processing**  
 🔹 Future goal: Contribute to **AI for healthcare, environment, and low-resource systems**  
 
----
+
 
 ## 🛠️ Technical Skills
 
@@ -27,7 +27,6 @@
 
 </div>
 
----
 
 ## 🔮 Future Vision  
 - 🚀 Build **AI-driven healthcare applications** for low-resource countries  
@@ -35,7 +34,7 @@
 - 🧠 Work on **trustworthy & explainable AI systems**  
 - 🌐 Collaborate on impactful **open-source AI projects**  
 
----
+
 
 
 <p align="center">
@@ -46,7 +45,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=mimjamam&theme=onestar&no-frame=true&row=1&column=6" alt="Trophies" />
 </p>
 
----
+
 
 ## 📊 GitHub Highlights
 <p align="center">
@@ -54,7 +53,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mimjamam&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
----
+
 
 ## 📫 Connect With Me
 <p align="center">
@@ -63,6 +62,6 @@
   <a href="https://github.com/mimjamam"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
----
+
 
 ✨ *“Building intelligent systems that matter — step by step, project by project.”*

@@ -39,7 +39,6 @@ mimjamam@ubuntu:~$ neofetch
                    ````` +oo+++o\:     
                           `oo++.       
 ```
-
 </div>
 
 ```

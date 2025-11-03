@@ -1,312 +1,152 @@
 <div align="center">
 
-<!-- Anime-style Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mimjamam%20Monmoy&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=32&desc=⚡%20AI%20Researcher%20%7C%20Code%20Warrior%20⚡&descSize=20&descAlignY=51" />
-
-<!-- Animated Character Banner -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800">
-
-<!-- Epic Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FF6B9D&center=true&vCenter=true&multiline=true&width=800&height=80&lines=%E2%9A%A1+Level+99+AI+Developer+%E2%9A%A1;%F0%9F%94%A5+Quest%3A+Building+Intelligent+Systems+%F0%9F%94%A5" alt="Typing SVG" />
-
-<br>
-
-<!-- Status Badges -->
-<img src="https://img.shields.io/badge/Status-Coding%20%26%20Training%20Models-FF6B9D?style=for-the-badge&logo=statuspage&logoColor=white" />
-<img src="https://img.shields.io/badge/Level-Machine%20Learning%20Master-00D9FF?style=for-the-badge&logo=level&logoColor=white" />
-<img src="https://img.shields.io/badge/Class-AI%20Researcher-9D50BB?style=for-the-badge&logo=atom&logoColor=white" />
-
-<br><br>
-
-<!-- Social Links with Anime Style -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20Quest-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mimjamam-monmoy/)
-[![Email](https://img.shields.io/badge/Gmail-Send%20Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:monmoy518@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow%20Journey-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mimjamam)
-![Visitors](https://komarev.com/ghpvc/?username=mimjamam&color=FF6B9D&style=for-the-badge&label=Profile+Views)
+<!-- Minimalist Header -->
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=150&text=MIMJAMAM%20MONMOY&fontSize=50&fontColor=58a6ff&desc=Machine%20Learning%20Engineer%20%7C%20AI%20Researcher&descSize=18&descAlignY=75&animation=fadeIn" />
 
 </div>
 
-<br>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+---
 
 <br>
 
-## 🎮 Character Profile
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
-<img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" alt="Coding Anime GIF"/>
+### 👋 Hello World!
 
-```yaml
-Name: Mimjamam Ul Haque Monmoy
-Class: AI Researcher & ML Engineer
-Level: 99
-HP: ████████████████████ 100%
-MP: ████████████████████ 100%
-EXP: ████████████████░░░░ 85%
+I'm **Mimjamam Ul Haque Monmoy**, a passionate AI researcher and developer focused on building intelligent systems that solve real-world problems.
 
-Stats:
-  Intelligence: ⭐⭐⭐⭐⭐
-  Coding Power: ⭐⭐⭐⭐⭐
-  Problem Solving: ⭐⭐⭐⭐⭐
-  Creativity: ⭐⭐⭐⭐⭐
-  Teamwork: ⭐⭐⭐⭐⭐
+<br>
 
-Special Abilities:
-  - 🧠 Deep Learning Mastery
-  - 🔮 Neural Network Summoning
-  - ⚡ Algorithm Optimization
-  - 🛡️ Bug Debugging Shield
-  - 🌟 Code Refactoring Aura
+**🔍 What I Do:**
+- 🤖 Research in Deep Learning & Neural Networks
+- 💡 Build ML models for healthcare & environmental applications
+- 🌐 Develop full-stack AI-powered web applications
+- 📊 Analyze data to extract meaningful insights
+- 🔧 Deploy ML models to production environments
 
-Current Quest:
-  "Build AI systems that change the world!"
+<br>
 
-Hometown: Bangladesh 🇧🇩
-```
+**🎯 Current Focus:**
+- Exploring advanced NLP techniques
+- Working on computer vision projects
+- Contributing to open-source AI libraries
+- Learning MLOps and model deployment strategies
+
+<br>
+
+**🌱 Always Learning:**
+- Reinforcement Learning algorithms
+- Distributed machine learning systems
+- Cloud-native AI architectures
+- Explainable AI methodologies
 
 <br clear="right"/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+---
 
-<br>
+### 🔧 Tech Stack
 
-## ⚔️ Skill Tree & Abilities
+**Languages:**
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
+![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)
+
+**AI/ML:**
+
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat&logo=keras&logoColor=white)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
+
+**Web Development:**
+
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+
+**Databases & Tools:**
+
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
+---
+
+### 📊 GitHub Statistics
 
 <div align="center">
 
-### 🎯 Programming Jutsu
-
-<img src="https://skillicons.dev/icons?i=python,cpp,java,js,php,cs,r&theme=dark&perline=7" />
-
-### 🔥 AI & ML Techniques
-
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark&perline=3" />
-
-<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-
-### ⚡ Web Development Magic
-
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,html,css,tailwind&theme=dark&perline=6" />
-
-### 🗡️ Database & DevOps Arsenal
-
-<img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,docker,git,linux&theme=dark&perline=6" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=mimjamam&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mimjamam&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
 
 </div>
 
-<br>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-
-<br>
-
-## 📊 Battle Statistics
-
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mimjamam&show_icons=true&theme=synthwave&hide_border=true&bg_color=1a1b27&title_color=FF6B9D&icon_color=00D9FF&text_color=FFFFFF&ring_color=FF6B9D" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mimjamam&theme=synthwave&hide_border=true&background=1a1b27&stroke=FF6B9D&ring=FF6B9D&fire=FFB86C&currStreakLabel=FF6B9D&sideLabels=FFFFFF" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mimjamam&layout=compact&theme=synthwave&hide_border=true&bg_color=1a1b27&title_color=FF6B9D&text_color=FFFFFF" />
-<img width="49%" src="https://github-contributor-stats.vercel.app/api?username=mimjamam&limit=5&theme=synthwave&hide_border=true&bg_color=1a1b27&title_color=FF6B9D&text_color=FFFFFF&combine_all_yearly_contributions=true" />
-
-<br>
-
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=mimjamam&custom_title=⚔️%20Contribution%20Battle%20Log&bg_color=1a1b27&color=FF6B9D&line=00D9FF&point=FFFFFF&area=true&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mimjamam&theme=github-dark-blue&hide_border=true" />
 
 </div>
 
-<br>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-
-<br>
-
-## 🏆 Achievement Unlocked!
-
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=mimjamam&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mimjamam&theme=github-compact&hide_border=true&area=true" />
 
 </div>
 
-<br>
+---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+### 🎯 Goals & Vision
 
-<br>
+**Short-term:**
+- 🏥 Develop AI solutions for healthcare in low-resource settings
+- 📝 Publish research papers in ML/AI conferences
+- 🌐 Contribute to major open-source projects
+- 🎓 Share knowledge through blogs and tutorials
 
-## 🎯 Current Quests & Missions
+**Long-term:**
+- 🚀 Lead innovative AI research initiatives
+- 🌍 Build sustainable AI for environmental conservation
+- 🧠 Advance explainable and trustworthy AI systems
+- 💡 Bridge the gap between AI research and real-world applications
 
-<table>
-<tr>
-<td width="50%" valign="top">
+---
 
-### 🔮 Main Quests
-```diff
-+ 🏥 AI Healthcare System Development
-+ 🌍 Environmental ML Modeling
-+ 🧠 Explainable AI Research
-+ 📝 ML Conference Paper Publication
-+ 🌐 Open Source Contribution
-+ 🎓 Mentoring Junior Developers
-```
-
-</td>
-<td width="50%" valign="top">
-
-### ⚡ Side Quests
-```diff
-! 🚀 MLOps Pipeline Mastery
-! 🎮 Reinforcement Learning Projects
-! 💬 Advanced NLP Applications
-! 👁️ Computer Vision Systems
-! 🔧 Full-Stack AI Web Apps
-! 📚 Technical Blog Writing
-```
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-
-<br>
-
-## 🌟 Ultimate Goals & Dream Arc
+### 📫 Connect With Me
 
 <div align="center">
 
-```python
-class HeroJourney:
-    def __init__(self):
-        self.hero_name = "Mimjamam Ul Haque Monmoy"
-        self.hero_class = "AI Researcher & ML Engineer"
-        self.power_level = 9001  # It's over 9000!
-        
-    def main_story_arc(self):
-        return {
-            "Chapter 1": "🏥 Develop AI healthcare for underserved communities",
-            "Chapter 2": "🌊 Advance oceanographic & climate modeling",
-            "Chapter 3": "🧠 Pioneer trustworthy & explainable AI",
-            "Chapter 4": "🌐 Lead impactful open-source AI projects",
-            "Final Arc": "🚀 Change the world with AI innovation"
-        }
-    
-    def special_moves(self):
-        return [
-            "🔥 Deep Learning Dragon Strike",
-            "⚡ Neural Network Lightning Bolt",
-            "🌟 Algorithm Optimization Beam",
-            "🛡️ Data Preprocessing Shield",
-            "💫 Model Deployment Ultimate"
-        ]
-    
-    def party_members(self):
-        return ["Python", "PyTorch", "TensorFlow", "React", "PostgreSQL"]
-    
-    def motto(self):
-        return "Believe in the AI that believes in you! 🌟"
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mimjamam-monmoy/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:monmoy518@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mimjamam)
 
-# Initialize Hero
-hero = HeroJourney()
-print(f"⚔️ {hero.hero_name} - Power Level: {hero.power_level}! ⚔️")
-```
+<br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=mimjamam&color=58a6ff&style=flat-square)
 
 </div>
 
-<br>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-
-<br>
-
-## 🐉 Contribution Dragon
+---
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mimjamam/mimjamam/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mimjamam/mimjamam/output/github-contribution-grid-snake.svg">
-  <img alt="contribution dragon" src="https://raw.githubusercontent.com/mimjamam/mimjamam/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
+*"Building intelligent systems, one algorithm at a time."*
 
 <br>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-
-<br>
-
-## 💬 Words of Wisdom
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=The%20code%20you%20write%20makes%20you%20a%20programmer.%20The%20code%20you%20delete%20makes%20you%20a%20good%20one.&author=Anonymous" />
-
-</div>
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-
-<br>
-
-## 📬 Join My Party!
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="200" />
-
-### 🎮 Let's Team Up for Epic Projects!
-
-<br>
-
-<a href="https://www.linkedin.com/in/mimjamam-monmoy/">
-  <img src="https://img.shields.io/badge/LinkedIn-Join%20My%20Network-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" />
-</a>
-<a href="mailto:monmoy518@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Send%20Quest%20Request-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" />
-</a>
-<a href="https://github.com/mimjamam">
-  <img src="https://img.shields.io/badge/GitHub-Follow%20Adventure-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" />
-</a>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Party%20Status-Open%20for%20Collaboration-00D9FF?style=for-the-badge&logo=handshake&logoColor=white" />
-
-</div>
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-
-<br>
-
-<div align="center">
-
-### ⚡ *"The journey of a thousand commits begins with a single line of code!"* ⚡
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="150" />
-
-<br>
-
-**🌟 May your code compile and your models converge! 🌟**
-
-<br>
-
-<!-- Epic Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
+⭐️ From [mimjamam](https://github.com/mimjamam)
 
 </div>

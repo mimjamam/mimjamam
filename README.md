@@ -13,202 +13,249 @@
                 ╚══════════════════════════════════════════════════════════════════════════════╝
 ```
 
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+New&weight=700&size=18&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=root%40mimjamam%3A~%23+whoami;AI+Researcher+%26+Machine+Learning+Engineer;root%40mimjamam%3A~%23+cat+mission.txt;Building+Intelligent+Systems+That+Matter;root%40mimjamam%3A~%23+./start_coding.sh;[SUCCESS]+System+Ready)](https://git.io/typing-svg)
-
-</div>
-
-                  ```
-                  ================================================================================
-                                                SYSTEM INFORMATION                                
-                  ================================================================================
-                  
-                    Name:        Mimjamam Ul Haque Monmoy
-                    Role:        AI Researcher & ML Engineer
-                    Location:    Bangladesh
-                    Status:      [ONLINE] - Coding & Training Models
-                    Mission:     Building AI systems that solve real-world problems
-                    
-                    Interests:
-                      [*] Deep Learning & Neural Networks
-                      [*] Natural Language Processing
-                      [*] Computer Vision Applications
-                      [*] Reinforcement Learning
-                      [*] AI for Healthcare
-                      [*] Environmental Modeling with ML
-                  
-                  ================================================================================
-                  ```
-                  
-                  ```
-                  root@mimjamam:~# ls -la /skills/languages/
-                  ```
-                  
-                  ```
-                  total 64
-                  drwxr-xr-x  8 mimjamam  staff   256 Nov  3 2025 .
-                  drwxr-xr-x 15 mimjamam  staff   480 Nov  3 2025 ..
-                  
-                  -rwxr-xr-x  1 mimjamam  staff  9.5K Nov  3 2025 python.py
-                  -rwxr-xr-x  1 mimjamam  staff  8.7K Nov  3 2025 cpp.cpp
-                  -rwxr-xr-x  1 mimjamam  staff  7.8K Nov  3 2025 javascript.js
-                  -rwxr-xr-x  1 mimjamam  staff  7.2K Nov  3 2025 java.java
-                  -rwxr-xr-x  1 mimjamam  staff  6.5K Nov  3 2025 csharp.cs
-                  -rwxr-xr-x  1 mimjamam  staff  6.0K Nov  3 2025 php.php
-                  -rwxr-xr-x  1 mimjamam  staff  5.5K Nov  3 2025 r.r
-                  ```
-                  
-                  ```
-                  root@mimjamam:~# cat /skills/ai_ml/proficiency.txt
-                  ```
-                  
-                  ```
-                  ================================================================================
-                                            AI/ML FRAMEWORK PROFICIENCY                           
-                  ================================================================================
-                  
-                    PyTorch         [####################] 95%  Expert Level
-                    TensorFlow      [##################  ] 90%  Advanced
-                    Scikit-learn    [####################] 95%  Expert Level
-                    Keras           [#################   ] 85%  Advanced
-                    OpenCV          [################    ] 80%  Proficient
-                    Pandas          [####################] 95%  Expert Level
-                    NumPy           [####################] 95%  Expert Level
-                    Matplotlib      [##################  ] 90%  Advanced
-                    Seaborn         [#################   ] 85%  Advanced
-                  
-                  ================================================================================
-                  ```
-                  
-                  ```
-                  root@mimjamam:~# cat /skills/web_development/stack.txt
-                  ```
-                  
-                  ```
-                  ================================================================================
-                                           WEB DEVELOPMENT STACK                                  
-                  ================================================================================
-                  
-                    Frontend:
-                      - React.js        [#################   ] 85%
-                      - HTML5           [##################  ] 90%
-                      - CSS3            [##################  ] 90%
-                      - Tailwind CSS    [#################   ] 85%
-                      - JavaScript      [##################  ] 90%
-                  
-                    Backend:
-                      - Node.js         [################    ] 80%
-                      - Express.js      [################    ] 80%
-                      - PHP             [###############     ] 75%
-                  
-                    Databases:
-                      - PostgreSQL      [#################   ] 85%
-                      - MySQL           [################    ] 80%
-                      - MongoDB         [###############     ] 75%
-                  
-                    DevOps & Tools:
-                      - Docker          [################    ] 80%
-                      - Git             [####################] 95%
-                      - Linux           [##################  ] 90%
-                  
-                  ================================================================================
-                  ```
-                  
-                  ```
-                  root@mimjamam:~# python3 /scripts/github_stats.py
-                  ```
-                  
-                  ```
-                  [INFO] Fetching GitHub statistics...
-                  [INFO] Connecting to GitHub API...
-                  [SUCCESS] Data retrieved successfully!
-                  
-                  ================================================================================
-                                              GITHUB STATISTICS                                   
-                  ================================================================================
-                  ```
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=mimjamam&show_icons=true&theme=terminal&hide_border=true&bg_color=0d1117&title_color=00FF00&icon_color=00FF00&text_color=00FF00" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mimjamam&layout=compact&theme=terminal&hide_border=true&bg_color=0d1117&title_color=00FF00&text_color=00FF00" />
-
-<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=mimjamam&theme=terminal&hide_border=true&background=0d1117&stroke=00FF00&ring=00FF00&fire=00FF00&currStreakLabel=00FF00&sideLabels=00FF00&dates=00FF00" />
-
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=mimjamam&custom_title=Contribution%20Activity%20Graph&bg_color=0d1117&color=00FF00&line=00FF00&point=FFFFFF&area=true&hide_border=true" />
-
-</div>
-
 ```
-================================================================================
-```
-
-```
-root@mimjamam:~# ./display_achievements.sh
-```
-
-```
-[INFO] Loading achievement data...
-[SUCCESS] Achievements unlocked!
-
-================================================================================
-                              ACHIEVEMENTS                                      
-================================================================================
+mimjamam@ubuntu:~$ neofetch
 ```
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=mimjamam&theme=matrix&no-frame=true&no-bg=true&margin-w=8&column=7" />
+```
+                          ./+o+-       mimjamam@github
+                  yyyyy- -yyyyyy+      ───────────────────────────
+               ://+//////-yyyyyyo      OS: Ubuntu 22.04 LTS
+           .++ .:/++++++/-.+sss/`      Host: GitHub Profile
+         .:++o:  /++++++++/:--:/-      Kernel: AI-Research-6.0
+        o:+o+:++.`..```.-/oo+++++/     Uptime: Building intelligent systems
+       .:+o:+o/.          `+sssoo+/    Shell: bash 5.1.16
+  .++/+:+oo+o:`             /sssooo.   Resolution: Solving real-world problems
+ /+++//+:`oo+o               /::--:.   DE: Machine Learning Engineer
+ \+/+o+++`o++o               ++////.   WM: Deep Learning & AI Research
+  .++.o+++oo+:`             /dddhhh.   Theme: Innovation & Impact
+       .+.o+oo:.          `oddhhhh+    Icons: Python, PyTorch, TensorFlow
+        \+.++o+o``-````.:ohdhhhhh+     Terminal: AI Development
+         `:o+++ `ohhhhhhhhyo++os:      CPU: Neural Networks (8) @ 3.5GHz
+           .o:`.syhhhhhhh/.oo++o`      GPU: Deep Learning Accelerator
+               /osyyyyyyo++ooo+++/     Memory: Unlimited Learning Capacity
+                   ````` +oo+++o\:     
+                          `oo++.       
+```
 
 </div>
 
 ```
+mimjamam@ubuntu:~$ cat /etc/profile.d/about.sh
+```
+
+```bash
+#!/bin/bash
+# Profile Information
+# Author: Mimjamam Ul Haque Monmoy
+
+export NAME="Mimjamam Ul Haque Monmoy"
+export ROLE="AI Researcher & Machine Learning Engineer"
+export LOCATION="Bangladesh"
+export STATUS="[ONLINE] - Coding & Training Models"
+export MISSION="Building AI systems that solve real-world problems"
+
+# Research Interests
+declare -a INTERESTS=(
+    "Deep Learning & Neural Networks"
+    "Natural Language Processing"
+    "Computer Vision Applications"
+    "Reinforcement Learning"
+    "AI for Healthcare"
+    "Environmental Modeling with ML"
+)
+
+echo "Profile loaded successfully!"
+```
+
+```
+mimjamam@ubuntu:~$ sudo apt list --installed | grep skills
+```
+
+```
+Listing... Done
+
+python3/focal,now 3.10.12 amd64 [installed]
+cpp-compiler/focal,now 11.4.0 amd64 [installed]
+javascript-runtime/focal,now 18.17.0 amd64 [installed]
+openjdk-17/focal,now 17.0.8 amd64 [installed]
+dotnet-sdk/focal,now 7.0.401 amd64 [installed]
+php8.1/focal,now 8.1.23 amd64 [installed]
+r-base/focal,now 4.3.1 amd64 [installed]
+
+pytorch/focal,now 2.0.1 all [installed]
+tensorflow/focal,now 2.13.0 all [installed]
+scikit-learn/focal,now 1.3.0 all [installed]
+keras/focal,now 2.13.1 all [installed]
+opencv-python/focal,now 4.8.0 all [installed]
+pandas/focal,now 2.0.3 all [installed]
+numpy/focal,now 1.24.3 all [installed]
+
+react/focal,now 18.2.0 all [installed]
+nodejs/focal,now 18.17.0 amd64 [installed]
+express/focal,now 4.18.2 all [installed]
+
+postgresql-15/focal,now 15.4 amd64 [installed]
+mysql-server/focal,now 8.0.34 amd64 [installed]
+mongodb-org/focal,now 7.0.0 amd64 [installed]
+
+docker-ce/focal,now 24.0.5 amd64 [installed]
+git/focal,now 2.41.0 amd64 [installed]
+```
+
+```
+mimjamam@ubuntu:~$ htop
+```
+
+```
+  CPU[████████████████████95.0%]   Tasks: 42, 156 thr; 1 running
+  Mem[████████████████████95.0%]   Load average: 2.15 1.98 1.87
+  Swp[████████████░░░░░░░░60.0%]   Uptime: 365 days, 12:34:56
+
+  PID USER      PRI  NI  VIRT   RES   SHR S CPU% MEM%   TIME+  Command
+ 1337 mimjamam   20   0 8192M 7680M 1024M R 95.0 95.0 999:59 python3 train_model.py
+ 1338 mimjamam   20   0 4096M 3584M  512M S 85.0 85.0 888:88 pytorch_training
+ 1339 mimjamam   20   0 2048M 1792M  256M S 80.0 80.0 777:77 tensorflow_model
+ 1340 mimjamam   20   0 1024M  896M  128M S 75.0 75.0 666:66 data_preprocessing
+ 1341 mimjamam   20   0  512M  448M   64M S 70.0 70.0 555:55 model_evaluation
+ 1342 mimjamam   20   0  256M  224M   32M S 65.0 65.0 444:44 feature_engineering
+ 1343 mimjamam   20   0  128M  112M   16M S 60.0 60.0 333:33 hyperparameter_tuning
+
+Press F1 for help. Q to quit.
+```
+
+```
+mimjamam@ubuntu:~$ df -h /skills
+```
+
+```
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/sda1       100G   95G    5G  95% /skills
+
+Skills Breakdown:
+├── languages/          9.5G
+│   ├── python          9.5G  [████████████████████] 95%
+│   ├── cpp             8.7G  [█████████████████░░░] 87%
+│   ├── javascript      7.8G  [███████████████░░░░░] 78%
+│   ├── java            7.2G  [██████████████░░░░░░] 72%
+│   ├── csharp          6.5G  [█████████████░░░░░░░] 65%
+│   ├── php             6.0G  [████████████░░░░░░░░] 60%
+│   └── r               5.5G  [███████████░░░░░░░░░] 55%
+│
+├── ai_ml/             85.0G
+│   ├── pytorch         9.5G  [████████████████████] 95%
+│   ├── tensorflow      9.0G  [██████████████████░░] 90%
+│   ├── sklearn         9.5G  [████████████████████] 95%
+│   ├── keras           8.5G  [█████████████████░░░] 85%
+│   ├── opencv          8.0G  [████████████████░░░░] 80%
+│   ├── pandas          9.5G  [████████████████████] 95%
+│   └── numpy           9.5G  [████████████████████] 95%
+│
+├── web_dev/           25.5G
+│   ├── react           8.5G  [█████████████████░░░] 85%
+│   ├── nodejs          8.0G  [████████████████░░░░] 80%
+│   ├── express         8.0G  [████████████████░░░░] 80%
+│   ├── html5           9.0G  [██████████████████░░] 90%
+│   ├── css3            9.0G  [██████████████████░░] 90%
+│   └── tailwind        8.5G  [█████████████████░░░] 85%
+│
+└── databases/         23.5G
+    ├── postgresql      8.5G  [█████████████████░░░] 85%
+    ├── mysql           8.0G  [████████████████░░░░] 80%
+    └── mongodb         7.5G  [███████████████░░░░░] 75%
+```
+
+```
+mimjamam@ubuntu:~$ curl -s https://api.github.com/users/mimjamam | jq '.stats'
+```
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=mimjamam&show_icons=true&theme=ubuntu&hide_border=true&bg_color=2C001E&title_color=E95420&icon_color=E95420&text_color=FFFFFF" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mimjamam&layout=compact&theme=ubuntu&hide_border=true&bg_color=2C001E&title_color=E95420&text_color=FFFFFF" />
+
+<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=mimjamam&theme=ubuntu&hide_border=true&background=2C001E&stroke=E95420&ring=E95420&fire=E95420&currStreakLabel=E95420&sideLabels=FFFFFF&dates=FFFFFF" />
+
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=mimjamam&custom_title=Contribution%20Activity%20Graph&bg_color=2C001E&color=E95420&line=E95420&point=FFFFFF&area=true&hide_border=true" />
+
+</div>
+
+```
+mimjamam@ubuntu:~$ sudo systemctl status achievements.service
+```
+
+```
+● achievements.service - GitHub Achievements Display
+     Loaded: loaded (/etc/systemd/system/achievements.service; enabled)
+     Active: active (running) since Mon 2025-11-03 00:00:00 UTC; 1 year ago
+       Docs: https://github.com/mimjamam
+   Main PID: 1234 (display_achievements)
+      Tasks: 7 (limit: 4915)
+     Memory: 128.0M
+        CPU: 5min 30s
+     CGroup: /system.slice/achievements.service
+             └─1234 /usr/bin/display_achievements --theme=ubuntu
+
+Nov 03 00:00:00 ubuntu systemd[1]: Started GitHub Achievements Display.
+Nov 03 00:00:01 ubuntu achievements[1234]: [INFO] Loading achievement data...
+Nov 03 00:00:02 ubuntu achievements[1234]: [SUCCESS] Achievements loaded!
+```
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=mimjamam&theme=juicyfresh&no-frame=true&no-bg=true&margin-w=8&column=7" />
+
+</div>
+
+```
+mimjamam@ubuntu:~$ cat /var/log/projects/current_work.log
+```
+
+```
+[2025-11-03 00:00:00] INFO: Project Management System v2.0
+[2025-11-03 00:00:01] INFO: Loading active projects...
+
 ================================================================================
-```
-
-```
-root@mimjamam:~# cat /projects/current_work.log
-```
-
-```
-================================================================================
-                           CURRENT PROJECTS & GOALS                             
+                           ACTIVE DEVELOPMENT QUEUE                             
 ================================================================================
 
-[2025-11-03 00:00:00] INFO: Active Development Queue
+HIGH PRIORITY TASKS:
+┌────────────────────────────────────────────────────────────────────────────┐
+│ [################----] 80% │ AI Healthcare System Development              │
+│ [###########---------] 55% │ Environmental ML Modeling Research            │
+│ [#############-------] 65% │ Explainable AI Implementation                 │
+│ [##########----------] 50% │ Research Paper Publication                    │
+└────────────────────────────────────────────────────────────────────────────┘
 
-HIGH PRIORITY:
-  [################----] 80% - AI Healthcare System Development
-  [###########---------] 55% - Environmental ML Modeling Research
-  [#############-------] 65% - Explainable AI Implementation
-  [##########----------] 50% - Research Paper Publication
-  
-MEDIUM PRIORITY:
-  [########------------] 40% - Open Source Contribution
-  [#########-----------] 45% - MLOps Pipeline Development
-  [######--------------] 30% - Technical Blog Writing
-  [#######-------------] 35% - Educational Content Creation
+MEDIUM PRIORITY TASKS:
+┌────────────────────────────────────────────────────────────────────────────┐
+│ [########------------] 40% │ Open Source Contribution                      │
+│ [#########-----------] 45% │ MLOps Pipeline Development                    │
+│ [######--------------] 30% │ Technical Blog Writing                        │
+│ [#######-------------] 35% │ Educational Content Creation                  │
+└────────────────────────────────────────────────────────────────────────────┘
 
 IN PROGRESS:
-  [*] Advanced NLP Techniques
-  [*] Computer Vision Projects
-  [*] Reinforcement Learning Experiments
-  [*] Full-Stack AI Web Applications
-  [*] Distributed ML Systems
+  ● Advanced NLP Techniques
+  ● Computer Vision Projects
+  ● Reinforcement Learning Experiments
+  ● Full-Stack AI Web Applications
+  ● Distributed ML Systems
 
 COMPLETED:
-  [✓] Python Mastery
-  [✓] Deep Learning Fundamentals
-  [✓] Data Science Bootcamp
-  [✓] Basic ML Algorithms
-  [✓] Web Development Basics
+  ✓ Python Mastery
+  ✓ Deep Learning Fundamentals
+  ✓ Data Science Bootcamp
+  ✓ Basic ML Algorithms
+  ✓ Web Development Basics
 
-================================================================================
+[2025-11-03 00:00:02] INFO: All projects loaded successfully!
 ```
 
 ```
-root@mimjamam:~# python3 /scripts/future_vision.py
+mimjamam@ubuntu:~$ python3 /opt/scripts/future_vision.py
 ```
 
 ```python
@@ -218,17 +265,29 @@ root@mimjamam:~# python3 /scripts/future_vision.py
 Future Vision & Goals
 Author: Mimjamam Ul Haque Monmoy
 Version: 2025.11.03
+License: MIT
 """
 
+import sys
+from datetime import datetime
+
+
 class FutureRoadmap:
+    """
+    A comprehensive roadmap for AI research and development goals
+    """
+    
     def __init__(self):
         self.name = "Mimjamam Ul Haque Monmoy"
         self.role = "AI Researcher & ML Engineer"
         self.version = "2025.11.03"
+        self.timestamp = datetime.now()
         
     def short_term_goals(self):
         """
         Immediate objectives for the next 1-2 years
+        Returns:
+            list: Short-term goals
         """
         return [
             "[1] Develop AI healthcare apps for underserved regions",
@@ -242,6 +301,8 @@ class FutureRoadmap:
     def long_term_vision(self):
         """
         Ultimate mission and long-term aspirations
+        Returns:
+            dict: Long-term vision categories
         """
         return {
             "research": "Lead cutting-edge AI research initiatives",
@@ -255,41 +316,49 @@ class FutureRoadmap:
     def core_values(self):
         """
         Fundamental principles guiding all work
+        Returns:
+            list: Core values
         """
         return ["Innovation", "Impact", "Ethics", "Accessibility", "Excellence"]
     
     def execute(self):
         """
         Main execution function
+        Returns:
+            bool: Success status
         """
-        print("[INFO] Initializing future vision...")
-        print("[SUCCESS] Vision loaded successfully!")
-        print("[STATUS] Mission: Building AI that matters")
-        print("[READY] Let's change the world! 🚀")
+        print(f"[{self.timestamp.strftime('%Y-%m-%d %H:%M:%S')}] INFO: Initializing future vision...")
+        print(f"[{self.timestamp.strftime('%Y-%m-%d %H:%M:%S')}] SUCCESS: Vision loaded successfully!")
+        print(f"[{self.timestamp.strftime('%Y-%m-%d %H:%M:%S')}] STATUS: Mission: Building AI that matters")
+        print(f"[{self.timestamp.strftime('%Y-%m-%d %H:%M:%S')}] READY: Let's change the world! 🚀")
         return True
 
+
 if __name__ == "__main__":
-    roadmap = FutureRoadmap()
-    roadmap.execute()
+    try:
+        roadmap = FutureRoadmap()
+        sys.exit(0 if roadmap.execute() else 1)
+    except Exception as e:
+        print(f"[ERROR] {str(e)}", file=sys.stderr)
+        sys.exit(1)
 ```
 
 ```
-[INFO] Initializing future vision...
-[SUCCESS] Vision loaded successfully!
-[STATUS] Mission: Building AI that matters
-[READY] Let's change the world! 🚀
-
-================================================================================
+[2025-11-03 00:00:00] INFO: Initializing future vision...
+[2025-11-03 00:00:01] SUCCESS: Vision loaded successfully!
+[2025-11-03 00:00:02] STATUS: Mission: Building AI that matters
+[2025-11-03 00:00:03] READY: Let's change the world! 🚀
 ```
 
 ```
-root@mimjamam:~# curl -X GET https://api.github.com/users/mimjamam/contact
+mimjamam@ubuntu:~$ wget -qO- https://api.github.com/users/mimjamam/contact | jq
 ```
 
 ```json
 {
   "status": 200,
   "message": "Connection established successfully",
+  "server": "Ubuntu/22.04 LTS",
   "data": {
     "name": "Mimjamam Ul Haque Monmoy",
     "role": "AI Researcher & ML Engineer",
@@ -306,6 +375,13 @@ root@mimjamam:~# curl -X GET https://api.github.com/users/mimjamam/contact
       "Open Source Projects",
       "Technical Discussions",
       "Mentorship Opportunities"
+    ],
+    "preferred_tools": [
+      "Python",
+      "PyTorch",
+      "TensorFlow",
+      "Ubuntu",
+      "Docker"
     ]
   },
   "timestamp": "2025-11-03T00:00:00Z"
@@ -313,9 +389,16 @@ root@mimjamam:~# curl -X GET https://api.github.com/users/mimjamam/contact
 ```
 
 ```
-================================================================================
-                            CONNECT WITH ME                                     
-================================================================================
+mimjamam@ubuntu:~$ figlet -f standard "CONNECT"
+```
+
+```
+  ____ ___  _   _ _   _ _____ ____ _____ 
+ / ___/ _ \| \ | | \ | | ____/ ___|_   _|
+| |  | | | |  \| |  \| |  _|| |     | |  
+| |__| |_| | |\  | |\  | |__| |___  | |  
+ \____\___/|_| \_|_| \_|_____\____| |_|  
+                                          
 ```
 
 <div align="center">
@@ -323,52 +406,62 @@ root@mimjamam:~# curl -X GET https://api.github.com/users/mimjamam/contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mimjamam-monmoy/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:monmoy518@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mimjamam)
+[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com)
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=mimjamam&color=00FF00&style=flat-square&label=Terminal+Sessions)
+![Profile Views](https://komarev.com/ghpvc/?username=mimjamam&color=E95420&style=flat-square&label=Terminal+Sessions)
 
 </div>
 
 ```
-================================================================================
+mimjamam@ubuntu:~$ cat ~/.signature
 ```
 
 ```
-root@mimjamam:~# cat /home/mimjamam/motto.txt
+┌────────────────────────────────────────────────────────────────────────────┐
+│                                                                            │
+│  "Building intelligent systems, one commit at a time."                     │
+│                                                                            │
+│  "Code is poetry. AI is the future. Together, they change the world."     │
+│                                                                            │
+└────────────────────────────────────────────────────────────────────────────┘
 ```
 
 ```
-================================================================================
-
-  "Building intelligent systems, one commit at a time."
-  
-  "Code is poetry. AI is the future. Together, they change the world."
-
-================================================================================
+mimjamam@ubuntu:~$ sudo shutdown -h now "Thanks for visiting!"
 ```
 
 ```
-root@mimjamam:~# echo "Thanks for visiting!" && sleep 1 && exit
-```
+Broadcast message from mimjamam@ubuntu (Mon 2025-11-03 00:00:00 UTC):
 
-```
 Thanks for visiting!
 
-[INFO] Closing terminal session...
-[INFO] Saving state...
-[SUCCESS] Session saved successfully!
+The system is going down for maintenance NOW!
 
-================================================================================
-                                                                                
-                    ⭐ Star repos you like | 🤝 Let's collaborate              
-                                                                                
-                         Thanks for visiting my profile!                        
-                                                                                
-================================================================================
+┌────────────────────────────────────────────────────────────────────────────┐
+│                                                                            │
+│                  ⭐ Star repos you like | 🤝 Let's collaborate             │
+│                                                                            │
+│                       Thanks for visiting my profile!                      │
+│                                                                            │
+└────────────────────────────────────────────────────────────────────────────┘
 
+[  OK  ] Stopped target Multi-User System.
+[  OK  ] Stopped target Graphical Interface.
+[  OK  ] Stopped GitHub Profile Service.
+         Stopping Session Manager...
+         Stopping User Manager for UID 1000...
+[  OK  ] Stopped Session Manager.
+[  OK  ] Stopped User Manager for UID 1000.
+[  OK  ] Reached target Shutdown.
+[  OK  ] Reached target Final Step.
+         Starting Power-Off...
+
+System halted.
+
+Connection to github.com closed by remote host.
 Connection to github.com closed.
-
-[mimjamam@github ~]$ logout
 ```
+
 

@@ -25,19 +25,19 @@
 ```
 
 ```yaml
-                                              Name: Mimjamam Ul Haque Monmoy
-                                              Role: AI Researcher & Machine Learning Engineer
-                                              Location: Bangladesh
-                                              Status: [ONLINE] - Coding & Training Models
-                                              Mission: Building AI systems that solve real-world problems
+                                      Name: Mimjamam Ul Haque Monmoy
+                                      Role: AI Researcher & Machine Learning Engineer
+                                      Location: Bangladesh
+                                      Status: [ONLINE] - Coding & Training Models
+                                      Mission: Building AI systems that solve real-world problems
                                               
-                                              Interests:
-                                                - Deep Learning & Neural Networks
-                                                - Natural Language Processing
-                                                - Computer Vision Applications
-                                                - Reinforcement Learning
-                                                - AI for Healthcare
-                                                - Environmental Modeling with ML
+                                      Interests:
+                                            - Deep Learning & Neural Networks
+                                            - Natural Language Processing
+                                            - Computer Vision Applications
+                                            - Reinforcement Learning
+                                            - AI for Healthcare
+                                            - Environmental Modeling with ML
 ```
 
 ```bash

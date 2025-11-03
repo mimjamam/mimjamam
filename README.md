@@ -46,44 +46,44 @@
 ```
 
 ```
-                                          drwxr-xr-x  8 mimjamam  staff   256 Nov  3 2025 .
-                                          drwxr-xr-x 15 mimjamam  staff   480 Nov  3 2025 ..
+                                   drwxr-xr-x  8 mimjamam  staff   256 Nov  3 2025 .
+                                   drwxr-xr-x 15 mimjamam  staff   480 Nov  3 2025 ..
                                           
-                                          -rw-r--r--  1 mimjamam  staff  9.5K Nov  3 2025 python.py
-                                          -rw-r--r--  1 mimjamam  staff  8.7K Nov  3 2025 cpp.cpp
-                                          -rw-r--r--  1 mimjamam  staff  7.8K Nov  3 2025 javascript.js
-                                          -rw-r--r--  1 mimjamam  staff  7.2K Nov  3 2025 java.java
-                                          -rw-r--r--  1 mimjamam  staff  6.5K Nov  3 2025 csharp.cs
-                                          -rw-r--r--  1 mimjamam  staff  6.0K Nov  3 2025 php.php
-                                          -rw-r--r--  1 mimjamam  staff  5.5K Nov  3 2025 r.r
+                                   -rw-r--r--  1 mimjamam  staff  9.5K Nov  3 2025 python.py
+                                   -rw-r--r--  1 mimjamam  staff  8.7K Nov  3 2025 cpp.cpp
+                                   -rw-r--r--  1 mimjamam  staff  7.8K Nov  3 2025 javascript.js
+                                   -rw-r--r--  1 mimjamam  staff  7.2K Nov  3 2025 java.java
+                                   -rw-r--r--  1 mimjamam  staff  6.5K Nov  3 2025 csharp.cs
+                                   -rw-r--r--  1 mimjamam  staff  6.0K Nov  3 2025 php.php
+                                   -rw-r--r--  1 mimjamam  staff  5.5K Nov  3 2025 r.r
                                           
-                                          drwxr-xr-x  7 mimjamam  staff   224 Nov  3 2025 ai_ml/
-                                            ├── pytorch.py          [████████████████████] 95%
-                                            ├── tensorflow.py       [███████████████████░] 90%
-                                            ├── sklearn.py          [████████████████████] 95%
-                                            ├── keras.py            [█████████████████░░░] 85%
-                                            ├── opencv.py           [████████████████░░░░] 80%
-                                            ├── pandas.py           [████████████████████] 95%
-                                            └── numpy.py            [████████████████████] 95%
+                                    drwxr-xr-x  7 mimjamam  staff   224 Nov  3 2025 ai_ml/
+                                        ├── pytorch.py          [████████████████████] 95%
+                                        ├── tensorflow.py       [███████████████████░] 90%
+                                        ├── sklearn.py          [████████████████████] 95%
+                                        ├── keras.py            [█████████████████░░░] 85%
+                                        ├── opencv.py           [████████████████░░░░] 80%
+                                        ├── pandas.py           [████████████████████] 95%
+                                        └── numpy.py            [████████████████████] 95%
                                           
-                                          drwxr-xr-x  6 mimjamam  staff   192 Nov  3 2025 web_dev/
-                                            ├── react.jsx           [█████████████████░░░] 85%
-                                            ├── nodejs.js           [████████████████░░░░] 80%
-                                            ├── express.js          [████████████████░░░░] 80%
-                                            ├── html5.html          [███████████████████░] 90%
-                                            ├── css3.css            [███████████████████░] 90%
-                                            └── tailwind.css        [█████████████████░░░] 85%
+                                     drwxr-xr-x  6 mimjamam  staff   192 Nov  3 2025 web_dev/
+                                        ├── react.jsx           [█████████████████░░░] 85%
+                                        ├── nodejs.js           [████████████████░░░░] 80%
+                                        ├── express.js          [████████████████░░░░] 80%
+                                        ├── html5.html          [███████████████████░] 90%
+                                        ├── css3.css            [███████████████████░] 90%
+                                        └── tailwind.css        [█████████████████░░░] 85%
                                           
-                                          drwxr-xr-x  6 mimjamam  staff   192 Nov  3 2025 databases/
-                                            ├── postgresql.sql      [█████████████████░░░] 85%
-                                            ├── mysql.sql           [████████████████░░░░] 80%
-                                            ├── mongodb.js          [███████████████░░░░░] 75%
-                                            └── redis.conf          [██████████████░░░░░░] 70%
+                                      drwxr-xr-x  6 mimjamam  staff   192 Nov  3 2025 databases/
+                                        ├── postgresql.sql      [█████████████████░░░] 85%
+                                        ├── mysql.sql           [████████████████░░░░] 80%
+                                        ├── mongodb.js          [███████████████░░░░░] 75%
+                                        └── redis.conf          [██████████████░░░░░░] 70%
                                           
-                                          drwxr-xr-x  4 mimjamam  staff   128 Nov  3 2025 tools/
-                                            ├── docker              [████████████████░░░░] 80%
-                                            ├── git                 [████████████████████] 95%
-                                            └── linux               [███████████████████░] 90%
+                                       drwxr-xr-x  4 mimjamam  staff   128 Nov  3 2025 tools/
+                                        ├── docker              [████████████████░░░░] 80%
+                                        ├── git                 [████████████████████] 95%
+                                        └── linux               [███████████████████░] 90%
 ```
 
 ```bash

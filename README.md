@@ -2,7 +2,8 @@
 <div align="center">
   
 <!-- Holographic Title Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00F7FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Hi+%F0%9F%91%8B+I'm+Mimjamam+Ul+Haque+Monmoy;AI+Researcher+%7C+ML+Engineer+%7C+Full-Stack+Dev" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00F7FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Hi+%F0%9F%91%8B+I'm+Mimjamam+Ul+Haque+Monmoy;
+AI+Researcher+%7C+ML+Engineer+%7C+Full-Stack+Dev" alt="Typing SVG" />
 
 <!-- Futuristic Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">

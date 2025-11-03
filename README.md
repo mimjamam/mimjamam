@@ -19,115 +19,115 @@
 
 </div>
 
-```
-================================================================================
-                              SYSTEM INFORMATION                                
-================================================================================
-
-  Name:        Mimjamam Ul Haque Monmoy
-  Role:        AI Researcher & ML Engineer
-  Location:    Bangladesh
-  Status:      [ONLINE] - Coding & Training Models
-  Mission:     Building AI systems that solve real-world problems
-  
-  Interests:
-    [*] Deep Learning & Neural Networks
-    [*] Natural Language Processing
-    [*] Computer Vision Applications
-    [*] Reinforcement Learning
-    [*] AI for Healthcare
-    [*] Environmental Modeling with ML
-
-================================================================================
-```
-
-```
-root@mimjamam:~# ls -la /skills/languages/
-```
-
-```
-total 64
-drwxr-xr-x  8 mimjamam  staff   256 Nov  3 2025 .
-drwxr-xr-x 15 mimjamam  staff   480 Nov  3 2025 ..
-
--rwxr-xr-x  1 mimjamam  staff  9.5K Nov  3 2025 python.py
--rwxr-xr-x  1 mimjamam  staff  8.7K Nov  3 2025 cpp.cpp
--rwxr-xr-x  1 mimjamam  staff  7.8K Nov  3 2025 javascript.js
--rwxr-xr-x  1 mimjamam  staff  7.2K Nov  3 2025 java.java
--rwxr-xr-x  1 mimjamam  staff  6.5K Nov  3 2025 csharp.cs
--rwxr-xr-x  1 mimjamam  staff  6.0K Nov  3 2025 php.php
--rwxr-xr-x  1 mimjamam  staff  5.5K Nov  3 2025 r.r
-```
-
-```
-root@mimjamam:~# cat /skills/ai_ml/proficiency.txt
-```
-
-```
-================================================================================
-                          AI/ML FRAMEWORK PROFICIENCY                           
-================================================================================
-
-  PyTorch         [####################] 95%  Expert Level
-  TensorFlow      [##################  ] 90%  Advanced
-  Scikit-learn    [####################] 95%  Expert Level
-  Keras           [#################   ] 85%  Advanced
-  OpenCV          [################    ] 80%  Proficient
-  Pandas          [####################] 95%  Expert Level
-  NumPy           [####################] 95%  Expert Level
-  Matplotlib      [##################  ] 90%  Advanced
-  Seaborn         [#################   ] 85%  Advanced
-
-================================================================================
-```
-
-```
-root@mimjamam:~# cat /skills/web_development/stack.txt
-```
-
-```
-================================================================================
-                         WEB DEVELOPMENT STACK                                  
-================================================================================
-
-  Frontend:
-    - React.js        [#################   ] 85%
-    - HTML5           [##################  ] 90%
-    - CSS3            [##################  ] 90%
-    - Tailwind CSS    [#################   ] 85%
-    - JavaScript      [##################  ] 90%
-
-  Backend:
-    - Node.js         [################    ] 80%
-    - Express.js      [################    ] 80%
-    - PHP             [###############     ] 75%
-
-  Databases:
-    - PostgreSQL      [#################   ] 85%
-    - MySQL           [################    ] 80%
-    - MongoDB         [###############     ] 75%
-
-  DevOps & Tools:
-    - Docker          [################    ] 80%
-    - Git             [####################] 95%
-    - Linux           [##################  ] 90%
-
-================================================================================
-```
-
-```
-root@mimjamam:~# python3 /scripts/github_stats.py
-```
-
-```
-[INFO] Fetching GitHub statistics...
-[INFO] Connecting to GitHub API...
-[SUCCESS] Data retrieved successfully!
-
-================================================================================
-                            GITHUB STATISTICS                                   
-================================================================================
-```
+                  ```
+                  ================================================================================
+                                                SYSTEM INFORMATION                                
+                  ================================================================================
+                  
+                    Name:        Mimjamam Ul Haque Monmoy
+                    Role:        AI Researcher & ML Engineer
+                    Location:    Bangladesh
+                    Status:      [ONLINE] - Coding & Training Models
+                    Mission:     Building AI systems that solve real-world problems
+                    
+                    Interests:
+                      [*] Deep Learning & Neural Networks
+                      [*] Natural Language Processing
+                      [*] Computer Vision Applications
+                      [*] Reinforcement Learning
+                      [*] AI for Healthcare
+                      [*] Environmental Modeling with ML
+                  
+                  ================================================================================
+                  ```
+                  
+                  ```
+                  root@mimjamam:~# ls -la /skills/languages/
+                  ```
+                  
+                  ```
+                  total 64
+                  drwxr-xr-x  8 mimjamam  staff   256 Nov  3 2025 .
+                  drwxr-xr-x 15 mimjamam  staff   480 Nov  3 2025 ..
+                  
+                  -rwxr-xr-x  1 mimjamam  staff  9.5K Nov  3 2025 python.py
+                  -rwxr-xr-x  1 mimjamam  staff  8.7K Nov  3 2025 cpp.cpp
+                  -rwxr-xr-x  1 mimjamam  staff  7.8K Nov  3 2025 javascript.js
+                  -rwxr-xr-x  1 mimjamam  staff  7.2K Nov  3 2025 java.java
+                  -rwxr-xr-x  1 mimjamam  staff  6.5K Nov  3 2025 csharp.cs
+                  -rwxr-xr-x  1 mimjamam  staff  6.0K Nov  3 2025 php.php
+                  -rwxr-xr-x  1 mimjamam  staff  5.5K Nov  3 2025 r.r
+                  ```
+                  
+                  ```
+                  root@mimjamam:~# cat /skills/ai_ml/proficiency.txt
+                  ```
+                  
+                  ```
+                  ================================================================================
+                                            AI/ML FRAMEWORK PROFICIENCY                           
+                  ================================================================================
+                  
+                    PyTorch         [####################] 95%  Expert Level
+                    TensorFlow      [##################  ] 90%  Advanced
+                    Scikit-learn    [####################] 95%  Expert Level
+                    Keras           [#################   ] 85%  Advanced
+                    OpenCV          [################    ] 80%  Proficient
+                    Pandas          [####################] 95%  Expert Level
+                    NumPy           [####################] 95%  Expert Level
+                    Matplotlib      [##################  ] 90%  Advanced
+                    Seaborn         [#################   ] 85%  Advanced
+                  
+                  ================================================================================
+                  ```
+                  
+                  ```
+                  root@mimjamam:~# cat /skills/web_development/stack.txt
+                  ```
+                  
+                  ```
+                  ================================================================================
+                                           WEB DEVELOPMENT STACK                                  
+                  ================================================================================
+                  
+                    Frontend:
+                      - React.js        [#################   ] 85%
+                      - HTML5           [##################  ] 90%
+                      - CSS3            [##################  ] 90%
+                      - Tailwind CSS    [#################   ] 85%
+                      - JavaScript      [##################  ] 90%
+                  
+                    Backend:
+                      - Node.js         [################    ] 80%
+                      - Express.js      [################    ] 80%
+                      - PHP             [###############     ] 75%
+                  
+                    Databases:
+                      - PostgreSQL      [#################   ] 85%
+                      - MySQL           [################    ] 80%
+                      - MongoDB         [###############     ] 75%
+                  
+                    DevOps & Tools:
+                      - Docker          [################    ] 80%
+                      - Git             [####################] 95%
+                      - Linux           [##################  ] 90%
+                  
+                  ================================================================================
+                  ```
+                  
+                  ```
+                  root@mimjamam:~# python3 /scripts/github_stats.py
+                  ```
+                  
+                  ```
+                  [INFO] Fetching GitHub statistics...
+                  [INFO] Connecting to GitHub API...
+                  [SUCCESS] Data retrieved successfully!
+                  
+                  ================================================================================
+                                              GITHUB STATISTICS                                   
+                  ================================================================================
+                  ```
 
 <div align="center">
 

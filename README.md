@@ -18,27 +18,27 @@ mimjamam@ubuntu:~$ neofetch
 ```
 
 <div align="center">
-
 ```
-                          ./+o+-       mimjamam@github
-                  yyyyy- -yyyyyy+      ───────────────────────────
-               ://+//////-yyyyyyo      OS: Ubuntu 22.04 LTS
-           .++ .:/++++++/-.+sss/`      Host: GitHub Profile
-         .:++o:  /++++++++/:--:/-      Kernel: AI-Research-6.0
-        o:+o+:++.`..```.-/oo+++++/     Uptime: Building intelligent systems
-       .:+o:+o/.          `+sssoo+/    Shell: bash 5.1.16
-  .++/+:+oo+o:`             /sssooo.   Resolution: Solving real-world problems
- /+++//+:`oo+o               /::--:.   DE: Machine Learning Engineer
- \+/+o+++`o++o               ++////.   WM: Deep Learning & AI Research
-  .++.o+++oo+:`             /dddhhh.   Theme: Innovation & Impact
-       .+.o+oo:.          `oddhhhh+    Icons: Python, PyTorch, TensorFlow
-        \+.++o+o``-````.:ohdhhhhh+     Terminal: AI Development
-         `:o+++ `ohhhhhhhhyo++os:      CPU: Neural Networks (8) @ 3.5GHz
-           .o:`.syhhhhhhh/.oo++o`      GPU: Deep Learning Accelerator
-               /osyyyyyyo++ooo+++/     Memory: Unlimited Learning Capacity
-                   ````` +oo+++o\:     
+                          ./+o+-       
+                  yyyyy- -yyyyyy+      mimjamam@github
+               ://+//////-yyyyyyo      ───────────────────────────
+           .++ .:/++++++/-.+sss/`      OS: Ubuntu 22.04 LTS
+         .:++o:  /++++++++/:--:/-      Host: GitHub Profile
+        o:+o+:++.`..```.-/oo+++++/     Kernel: AI-Research-6.0
+       .:+o:+o/.          `+sssoo+/    Uptime: Building intelligent systems
+  .++/+:+oo+o:`             /sssooo.   Shell: bash 5.1.16
+ /+++//+:`oo+o               /::--:.   Resolution: Solving real-world problems
+ \+/+o+++`o++o               ++////.   DE: Machine Learning Engineer
+  .++.o+++oo+:`             /dddhhh.   WM: Deep Learning & AI Research
+       .+.o+oo:.          `oddhhhh+    Theme: Innovation & Impact
+        \+.++o+o``-````.:ohdhhhhh+     Icons: Python, PyTorch, TensorFlow
+         `:o+++ `ohhhhhhhhyo++os:      Terminal: AI Development
+           .o:`.syhhhhhhh/.oo++o`      CPU: Neural Networks (8) @ 3.5GHz
+               /osyyyyyyo++ooo+++/     GPU: Deep Learning Accelerator
+                   ````` +oo+++o\:     Memory: Unlimited Learning Capacity
                           `oo++.       
 ```
+
 </div>
 
 ```

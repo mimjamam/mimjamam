@@ -52,22 +52,23 @@
 
 <br>
 
-**🎯 CURRENT ROLE**
-
-**AI Engineer Intern** @ Sysnova Information Systems Limited  
-*August 2025 - Present*
+**🎯 EXPERTISE**
 
 • Developing computer vision models for real-world applications  
 • Building LLM-based intelligent systems  
 • Creating data annotation pipelines  
 • Implementing production-ready ML solutions  
+• Deep learning research and implementation  
+• Full-stack AI application development  
 
 <br>
 
-**🎓 EDUCATION**
+**🔬 RESEARCH INTERESTS**
 
-Bachelor of Science in Computer Science & Engineering  
-**CGPA:** 3.95/4.00
+• Neural Machine Translation  
+• Medical AI & Healthcare Systems  
+• Environmental Modeling with ML  
+• Explainable AI Systems  
 
 <br>
 
@@ -80,10 +81,12 @@ Bachelor of Science in Computer Science & Engineering
 
 <br>
 
-**🏆 ACHIEVEMENTS**
+**🌟 FOCUS AREAS**
 
-🥇 Dean's List Award  
-🥇 University Merit Scholarship  
+� Dneep Learning & Neural Networks  
+🤖 Computer Vision Applications  
+💬 Natural Language Processing  
+🎮 Reinforcement Learning  
 
 <br>
 
